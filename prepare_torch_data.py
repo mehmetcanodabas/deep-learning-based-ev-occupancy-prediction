@@ -58,7 +58,7 @@ class OccupancyDataset(Dataset):
             zone_index,
         ]
 
-        # GRU expects [sequence_length, features].
+        # LSTM expects [sequence_length, features].
         x = x.unsqueeze(-1)
 
         return x, y
