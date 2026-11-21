@@ -27,6 +27,6 @@ Final predictions are evaluated against actual occupancy values using MAE, RMSE,
 
 [Five-Zone Actual vs. Predicted Occupancy](docs/results/actual_vs_predicted.png): Hour-by-hour comparison of actual and predicted occupied charging points for five selected zones during a single six-hour forecast (13:00–18:00, February 15, 2023).
 
-**Keywords:** Python, Charging Point Occupancy, Deep Learning, Energy Data Analytics, EV Charging, LSTM, Machine Learning, Multi-Horizon Forecasting, Neural Networks, Occupancy Forecasting, PyTorch, Time-Series Forecasting.
+**Keywords:** Python, Deep Learning, Energy Data Analytics, EV Charging, LSTM, Machine Learning, Multi-Horizon Forecasting, Neural Networks, PyTorch, Time-Series Forecasting.
 
 **Data Source:** [UrbanEV Dataset — IntelligentSystemsLab](https://github.com/IntelligentSystemsLab/UrbanEV), September 2022 – February 2023.
